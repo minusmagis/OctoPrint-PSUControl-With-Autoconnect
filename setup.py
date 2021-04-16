@@ -7,10 +7,10 @@ plugin_identifier = "psucontrolautoconnect"
 plugin_package = "octoprint_%s" % plugin_identifier
 plugin_name = "OctoPrint-PSUControl-Autoconnect"
 plugin_version = "0.0.1"
-plugin_description = "Control ATX/AUX power supply and connect to printer."
-plugin_author = "Shawn Bruce (modded by minusmagis)"
-plugin_author_email = "kantlivelong@gmail.com"
-plugin_url = "https://github.com/kantlivelong/OctoPrint-PSUControl"
+plugin_description = "Control ATX/AUX power supply and connect to printer automatically."
+plugin_author = "Shawn Bruce (modded by minusmagis based on chriswal code)"
+plugin_author_email = "minusmagis@hotmail.com"
+plugin_url = "https://github.com/minusmagis/OctoPrint-PSUControl-With-Autoconnect"
 plugin_license = "AGPLv3"
 plugin_additional_data = []
 
